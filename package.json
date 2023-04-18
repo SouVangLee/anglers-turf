@@ -1,0 +1,11 @@
+{
+  "name": "anglers-turf",
+  "version": "1.0.0",
+  "description": "Angler's Turf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sou Vang Lee",
+  "license": "ISC"
+}
